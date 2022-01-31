@@ -16,6 +16,7 @@ public class Hexagon
         h.compareTo();
 
     }
+    //this is the hexagon area
     public Hexagon(int side, int area)
     {
         this.side=side;
