@@ -22,6 +22,7 @@ public class Hexagon
         this.side=side;
         this.area=area;
     }
+    System.out.println("whatever");
     public void setArea(int area)
     {
         this.area=area;
